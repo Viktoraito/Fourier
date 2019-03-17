@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Developed and debugged by Mark Kofman
+${licensePrefix}Moscow Aviation Institute, group 3O-210, 2015
+<#if licenseLast??>
+${licenseLast}
+</#if>
